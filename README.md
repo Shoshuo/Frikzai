@@ -1,25 +1,42 @@
-# Salut, moi c'est Logan 👋
+# Hi, I'm Logan 👋
 
-Je suis passionné par l'administration système, les réseaux, le cloud et l'automatisation d'infrastructure.
+I am interested in systems administration, networking, cloud infrastructure, and automation.
 
-Je travaille actuellement sur des projets orientés **SysAdmin / Cloud / DevOps**, avec une approche basée sur l'Infrastructure as Code, la sécurité et la supervision.
-
----
-
-## Compétences principales
-
-- Administration Linux
-- Réseaux : VCN/VPC, subnets, routage, bastion, firewall
-- Cloud : Oracle Cloud Infrastructure
-- Infrastructure as Code : Terraform
-- Automatisation : Ansible
-- Supervision : Prometheus, Grafana, node_exporter
-- Sécurité : SSH hardening, fail2ban, segmentation réseau
-- Git / GitHub / GitHub Actions
+I work on infrastructure-oriented projects focused on Linux, networking, Infrastructure as Code, security, monitoring, and DevOps practices.
 
 ---
 
-## Technologies utilisées
+## About me
+
+I have a background in systems and network administration, with hands-on experience in Linux environments, infrastructure deployment, cloud services, and automation tools.
+
+My current focus is to improve my skills in:
+
+- Linux system administration
+- Cloud infrastructure
+- Network architecture
+- Infrastructure as Code
+- Configuration management
+- Monitoring and observability
+- Secure infrastructure design
+
+---
+
+## Technical skills
+
+- Linux administration
+- Networking: VCN/VPC, subnets, routing, bastion host, firewalls
+- Cloud: Oracle Cloud Infrastructure
+- Infrastructure as Code: Terraform
+- Configuration management: Ansible
+- Monitoring: Prometheus, Grafana, node_exporter
+- Security: SSH hardening, fail2ban, network segmentation
+- CI/CD: GitHub Actions
+- Version control: Git and GitHub
+
+---
+
+## Tools and technologies
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -31,42 +48,60 @@ Je travaille actuellement sur des projets orientés **SysAdmin / Cloud / DevOps*
 
 ---
 
-## Projet principal
+## Featured project
 
-### Infrastructure Oracle Cloud automatisée
+### Oracle Cloud Infrastructure Automation Lab
 
-Déploiement d'une infrastructure cloud complète sur Oracle Cloud Free Tier avec Terraform et Ansible.
+A complete cloud infrastructure project deployed on Oracle Cloud Free Tier using Terraform and Ansible.
 
-Le projet comprend :
+The project includes:
 
-- VCN segmenté public / privé / data
-- Bastion public sécurisé
-- VM applicative privée sans IP publique
-- Accès SSH via ProxyJump
-- Configuration système automatisée avec Ansible
-- Hardening SSH, fail2ban et firewall local
-- Supervision avec Prometheus, Grafana et node_exporter
-- CI GitHub Actions pour valider Terraform et Ansible
+- Segmented VCN architecture with public, private, and data subnets
+- Public bastion host for secure administration
+- Private application VM with no public IP address
+- SSH access through ProxyJump
+- Infrastructure provisioning with Terraform
+- Server configuration with Ansible
+- SSH hardening, fail2ban, and local firewall configuration
+- Monitoring stack with Prometheus, Grafana, and node_exporter
+- Secure access to monitoring interfaces through SSH tunnels
+- GitHub Actions CI for Terraform and Ansible validation
 
-Repo : [oracle-cloud-iac-lab](https://github.com/Frikzai/oracle-cloud-iac-lab)
-
----
-
-## Objectif professionnel
-
-Je cherche à progresser vers des postes orientés :
-
-- Administrateur systèmes et réseaux
-- Technicien infrastructure
-- Cloud junior
-- DevOps junior
-- Administrateur Linux
+Repository: [oracle-cloud-iac-lab](https://github.com/Frikzai/oracle-cloud-iac-lab)
 
 ---
 
+## What this project demonstrates
+
+This project demonstrates my ability to:
+
+- Design a secure cloud infrastructure
+- Segment a network using public and private subnets
+- Use a bastion host to access private servers
+- Provision infrastructure with Terraform
+- Configure Linux servers with Ansible
+- Apply basic hardening and security practices
+- Deploy a monitoring stack with Prometheus and Grafana
+- Use GitHub Actions to validate infrastructure code
+- Document an infrastructure project clearly
+
+---
+
+## Professional goals
+
+I am looking to grow into roles such as:
+
+- Systems and network administrator
+- Linux system administrator
+- Infrastructure technician
+- Cloud administrator
+- Junior DevOps engineer
+
+---
+
+=======
+## Contact
 
 
-## Me contacter
-
-- GitHub : [@Frikzai](https://github.com/Frikzai)
-- Email : salelogan99@gmail.com
+- GitHub: [@Frikzai](https://github.com/Frikzai)
+- Email: salelogan99@gmail.com
