@@ -6,7 +6,7 @@ Je travaille actuellement sur des projets orientés **SysAdmin / Cloud / DevOps*
 
 ---
 
-## 🧠 Compétences principales
+## Compétences principales
 
 - Administration Linux
 - Réseaux : VCN/VPC, subnets, routage, bastion, firewall
@@ -19,7 +19,7 @@ Je travaille actuellement sur des projets orientés **SysAdmin / Cloud / DevOps*
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -31,7 +31,7 @@ Je travaille actuellement sur des projets orientés **SysAdmin / Cloud / DevOps*
 
 ---
 
-## 🚀 Projet principal
+## Projet principal
 
 ### Infrastructure Oracle Cloud automatisée
 
@@ -48,11 +48,11 @@ Le projet comprend :
 - Supervision avec Prometheus, Grafana et node_exporter
 - CI GitHub Actions pour valider Terraform et Ansible
 
-🔗 Repo : [oracle-cloud-iac-lab](https://github.com/Frikzai/oracle-cloud-iac-lab)
+Repo : [oracle-cloud-iac-lab](https://github.com/Frikzai/oracle-cloud-iac-lab)
 
 ---
 
-## 🎯 Objectif professionnel
+## Objectif professionnel
 
 Je cherche à progresser vers des postes orientés :
 
@@ -64,7 +64,7 @@ Je cherche à progresser vers des postes orientés :
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - GitHub : [@Frikzai](https://github.com/Frikzai)
 - Email : salelogan99@gmail.com
